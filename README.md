@@ -18,6 +18,15 @@
 • Backup tài nguyên - Xóa tài nguyên
 
 • Thế thôi :3
+# Chạy ngoài
+• Bạn cũng có thể chạy trên các app Terminal khác như Termux hoặc Brevent thông qua ADB, Shizuku và Root.
+- Sẽ cài tự động thông qua zip:
+
+`sh /sdcard/Android/data/me.binhmod.aovskins/files/xuli.sh file.zip`
+
+- Sẽ khôi phục gốc vừa mod:
+
+`sh /sdcard/Android/data/me.binhmod.aovskins/files/xuli.sh restore`
 # Cảm ơn
 - [miniz](https://github.com/richgel999/miniz): Lib để giải nén.
 - [Shizuku](https://github.com/RikkaApps/Shizuku): Shizuku API để chạy mà không cần Root :3
