@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
 		String message =
 		"binhmod @ github v1.0\n"
 		+ "Nguồn chính thức:\nhttps://github.com/binhmod/AoVSkins\n\n"
-		+ "LƯU Ý: Tải App từ nguồn chính thức!\nChọn file mod uy tín để tránh bị khóa acc.\nMình không chịu trách nhiệm! <3\nApp có chức năng:\n- Cài nhiều mod cùng lúc\n- Nhanh, gọn lẹ, tiện lợi :3\n- An toàn!\n- snvv nghen";
+		+ "LƯU Ý: Tải App từ nguồn chính thức!\nChọn file mod uy tín để tránh bị khóa acc.\nMình không chịu trách nhiệm! <3\nApp có chức năng:\n- Cài nhiều mod cùng lúc\n- Backup - Xóa tài nguyên\n- Nhanh, gọn lẹ, tiện lợi :3\n- An toàn!\n- snvv nghen";
 		
 		textView.setText(message);
 		copyFunctions();
