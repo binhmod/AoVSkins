@@ -18,6 +18,8 @@
 • Backup tài nguyên - Xóa tài nguyên
 
 • Thế thôi :3
-
+# Cảm ơn
+- [miniz](https://github.com/richgel999/miniz): Lib để giải nén.
+- [Shizuku](https://github.com/RikkaApps/Shizuku): Shizuku API để chạy mà không cần Root :3
 
 
